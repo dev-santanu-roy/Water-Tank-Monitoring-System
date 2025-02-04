@@ -66,7 +66,7 @@ The **Water-Tank Monitoring System** brings smart technology to water management
 
 1. **📥 Clone this Repository:**
    ```bash
-   git clone https://github.com/YourUsername/WaterTankMonitoringSystem.git
+   git clone https://github.com/dev-santanu-roy/Water-Tank-Monitoring-System.git
    ```
 
 2. **🛠️ Open the Project:**
