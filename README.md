@@ -1,4 +1,4 @@
-# 💧 **Water-Tank Monitoring System** 🚀
+# 💧 **Water-Tank Monitoring System** 💧
 
 ## **🌍 Project Overview**
 
